@@ -1,4 +1,4 @@
-## About Me 👋
+## About Me 
 - Hello! I'm Romaisa, a passionate and dedicated BS Artificial Intelligence student at FAST. Currently in my second semester, I have a strong interest in programming and problem-solving.
 
 ## Skills
@@ -16,4 +16,5 @@
 
 ## Contact Information
 - romaisaishaq037@gmail.com
-- 
+- https://pk.linkedin.com/in/romaisa-ishaq-b777a4330
+- https://linktr.ee/ru_1234
