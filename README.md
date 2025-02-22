@@ -13,3 +13,7 @@
 - Exploring AI and its real-world applications
 - Improving my C++ programming skills
 - Web development
+
+## Contact Information
+- romaisaishaq037@gmail.com
+- 
