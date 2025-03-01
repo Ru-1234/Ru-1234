@@ -17,5 +17,5 @@
 
 ## Contact Information
 - romaisaishaq037@gmail.com
-- https://pk.linkedin.com/in/romaisa-ishaq-b777a4330
+- https://pk.linkedin.com/in/romaisa-b777a4330
 - https://linktr.ee/ru_1234
