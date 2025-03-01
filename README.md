@@ -8,6 +8,7 @@
 
 ## Experience
 - Web Development: Developed a skincare product website as part of a course requirement
+- C++ Intern at CodeAlpha
 
 ## Interests
 - Exploring AI and its real-world applications
