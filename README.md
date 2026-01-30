@@ -1,5 +1,5 @@
 ## About Me 
-- Hello! I'm Romaisa, a passionate and dedicated BS Artificial Intelligence student at FAST. Currently in my second semester, I have a strong interest in programming and problem-solving.
+- Hello! I'm Romaisa, a passionate and dedicated BS Artificial Intelligence student at FAST. Currently in my fourth semester, I have a strong interest in programming and problem-solving.
 
 ## Skills
 - Programming Languages: C++, Python
