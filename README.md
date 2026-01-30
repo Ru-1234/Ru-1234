@@ -9,11 +9,11 @@
 ## Projects
 - Web Development: Developed a skincare product website as part of a course requirement
 - Rush Hour: Developed a game in asm language using irvine32 for x86
+- Xonics & Subway surfers : Developed games using c++ (SFML) library
 - Automated Taxi: A project for "Programming for Ai" course, used Arduiono, ESP, IR sensors, Color sensors, Ultrasonic Sensors
 
 ## Interests
 - Exploring AI and its real-world applications
-- Improving C++ programming skills
 
 ## Contact Information
 - romaisaishaq037@gmail.com
