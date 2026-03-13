@@ -1,20 +1,37 @@
-## About Me 
-- Hello! I'm Romaisa, a passionate and dedicated BS Artificial Intelligence student at FAST. Currently in my fourth semester, I have a strong interest in programming and problem-solving.
+# Hi, I'm Romaisa 👋
+
+BS Artificial Intelligence student at FAST-NUCES · 4th Semester
+
+---
 
 ## Skills
-- Programming Languages: C++, Python
-- Web Development: HTML, CSS
-- Problem-Solving: Logical thinking and analytical skills
+
+**Languages** · C++, Python, C#, Assembly (x86)  
+**Frameworks & UI** · SFML, .NET MAUI, XAML, HTML, CSS  
+**Embedded** · Arduino, ESP, IR / Color / Ultrasonic Sensors  
+
+---
 
 ## Projects
-- Web Development: Developed a skincare product website as part of a course requirement
-- Rush Hour: Developed a game in asm language using irvine32 for x86
-- Xonics & Subway surfers : Developed games using c++ (SFML) library
-- Automated Taxi: A project for "Programming for Ai" course, used Arduiono, ESP, IR sensors, Color sensors, Ultrasonic Sensors
+
+**Automated Taxi** · *Arduino, ESP, Sensors*  
+Sensor-driven autonomous vehicle for the Programming for AI course.
+
+**Xonix & Subway Surfers** · *C++, SFML*  
+Arcade games with collision detection, animation, and scoring.
+
+**Rush Hour** · *x86 Assembly, Irvine32*  
+Sliding-block puzzle game built in low-level assembly.
+
+**Skincare Website** · *HTML, CSS*  
+Responsive e-commerce-style site built for a web development course.
+
+---
 
 ## Interests
-- Exploring AI and its real-world applications
 
-## Contact Information
-- romaisaishaq037@gmail.com
-- https://pk.linkedin.com/in/romaisa-b777a4330
+Exploring AI and its real-world applications · Cross-platform development with .NET MAUI
+
+---
+
+📧 romaisaishaq037@gmail.com · [LinkedIn](https://pk.linkedin.com/in/romaisa-b777a4330)
