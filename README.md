@@ -31,6 +31,7 @@ Responsive e-commerce-style site built for a web development course.
 ## Interests
 
  · Exploring AI and its real-world applications 
+ 
  · Cross-platform development with .NET MAUI
 
 ---
