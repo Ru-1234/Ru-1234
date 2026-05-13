@@ -17,7 +17,7 @@ BS Artificial Intelligence student at FAST-NUCES
 **Automated Taxi** · *Arduino, ESP, Sensors*  
 Sensor-driven autonomous vehicle for the Programming for AI course.
 
-**UstaadHub** · *C#, Xaml, sqlite*
+**UstaadHub** · *C#, Xaml, sqlite*   
 A cross-platform service booking application that connects users with verified local service providers such as plumbers, electricians, and carpenters.
 
 **Xonix & Subway Surfers** · *C++, SFML*  
