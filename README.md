@@ -1,6 +1,6 @@
 # Hi, I'm Romaisa 👋
 
-BS Artificial Intelligence student at FAST-NUCES · 4th Semester
+BS Artificial Intelligence student at FAST-NUCES
 
 ---
 
@@ -16,6 +16,9 @@ BS Artificial Intelligence student at FAST-NUCES · 4th Semester
 
 **Automated Taxi** · *Arduino, ESP, Sensors*  
 Sensor-driven autonomous vehicle for the Programming for AI course.
+
+**UstaadHub** · *C#, Xaml, sqlite*
+A cross-platform service booking application that connects users with verified local service providers such as plumbers, electricians, and carpenters.
 
 **Xonix & Subway Surfers** · *C++, SFML*  
 Arcade games with collision detection, animation, and scoring.
