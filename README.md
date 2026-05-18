@@ -22,6 +22,23 @@ Machine learning pipeline for predicting news article virality using ~39K sample
 
 ---
 
+### Cinematic Intelligence System — OEL AI Lab
+
+🔗 GitHub Repository: https://github.com/Ru-1234/cinematic-intelligence-system
+
+Multimodal AI pipeline for video understanding and cinematic trailer generation.
+
+* YOLO11 detection with ROI darkening on full-length videos
+* Feature extraction (motion, brightness, object density, scene cut rate) + Logistic Regression clip classification
+* Greedy top-5 clip selection with creepy per-frame effects
+* BLIP captioning --> horror NLP transform --> Pillow text overlay
+* Coqui TTS narration (pitch shift + reverb + whisper) mixed with programmatic drone/heartbeat music
+* FFmpeg final export
+
+**Stack:** Python · YOLO11 · OpenCV · scikit-learn · MoviePy · BLIP · Coqui TTS · Pillow · SciPy · FFmpeg
+
+---
+
 ### n8n Automation Collection
 
 🔗 GitHub Repository: https://github.com/Ru-1234/n8n-automation-collection
@@ -101,7 +118,7 @@ Sliding-block puzzle game implemented in x86 Assembly (Irvine32).
 | --------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Programming           | Python, C++, C#                                                                                          |
 | Web / Frontend        | HTML, CSS                                                                                                            |
-| Machine Learning & AI | scikit-learn |
+| Machine Learning & AI | scikit-learn, OpenCV, YOLO11  |
 | Data Handling         | Pandas, NumPy                                                                                                        |
 | Data Science          | EDA, Feature Engineering, Regression, Classification, Statistical Testing                                            |
 | Automation / Backend  | n8n, REST APIs, Webhooks, Google Sheets, OAuth, Cron jobs                                                     |
