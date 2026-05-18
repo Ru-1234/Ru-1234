@@ -104,7 +104,7 @@ Sliding-block puzzle game implemented in x86 Assembly (Irvine32).
 | Machine Learning & AI | scikit-learn |
 | Data Handling         | Pandas, NumPy                                                                                                        |
 | Data Science          | EDA, Feature Engineering, Regression, Classification, Statistical Testing                                            |
-| Automation / Backend  | n8n, REST APIs, Webhooks, MySQL, Google Sheets, OAuth, Cron jobs                                                     |
+| Automation / Backend  | n8n, REST APIs, Webhooks, Google Sheets, OAuth, Cron jobs                                                     |
 | Software Development  | .NET MAUI, XAML, SQLite                                                                                              |
 | Tools & Workflow      | Git, GitHub                                                                                        |
 
@@ -112,7 +112,6 @@ Sliding-block puzzle game implemented in x86 Assembly (Irvine32).
 
 ## Contact
 
-📍 Pakistan   
 📬 [romaisaishaq037@gmail.com](mailto:romaisaishaq037@gmail.com)    
 🔗 [LinkedIn](https://www.linkedin.com/in/romaisa-b777a4330)    
 
