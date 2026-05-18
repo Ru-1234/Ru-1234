@@ -106,7 +106,7 @@ Sliding-block puzzle game implemented in x86 Assembly (Irvine32).
 | Data Science          | EDA, Feature Engineering, Regression, Classification, Statistical Testing                                            |
 | Automation / Backend  | n8n, REST APIs, Webhooks, MySQL, Google Sheets, OAuth, Cron jobs                                                     |
 | Software Development  | .NET MAUI, XAML, SQLite                                                                                              |
-| Tools & Workflow      | Git, GitHub, Google Colab, VS Code                                                                                           |
+| Tools & Workflow      | Git, GitHub                                                                                        |
 
 ---
 
